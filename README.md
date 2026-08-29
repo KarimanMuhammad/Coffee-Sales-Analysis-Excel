@@ -108,10 +108,9 @@ The project focuses on four main analytical areas:
 
 ---
 
-## 📈 Dashboard
+## 📊 Dashboard Preview
 
-![Coffee Sales Dashboard](dashboard/Coffee_Sales_Dashboard.png)
-
+![Coffee Sales Dashboard](Coffee_Sales_Dashboard.png)
 The interactive Excel dashboard allows users to filter performance by:
 
 - Year
@@ -192,24 +191,3 @@ Based on the analysis:
 - Continuously monitor newly introduced products to identify those with scaling potential.
 
 ---
-
-## 📁 Repository Structure
-
-```text
-Coffee-Sales-Analysis-Excel/
-│
-├── README.md
-├── Coffee_Sales_Analysis.xlsx
-│
-├── data/
-│   ├── Sales_data_2024.csv
-│   └── Sales_data_2025.csv
-│
-├── dashboard/
-│   └── Coffee_Sales_Dashboard.png
-│
-├── report/
-│   └── Coffee_Sales_Analysis_Report.pdf
-│
-└── documentation/
-    └── Business_Questions.pdf
